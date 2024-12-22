@@ -1,0 +1,38 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#box-style {
+	width: 250px;
+	margin: auto;
+	box-shadow: 2px 5px black;
+	padding: 5px 15px;
+	margin-top: 10px;
+	margin-bottom: 15px;
+	background-color: grey;
+}
+
+#container {
+	width: 100%;
+	text-align: center;
+	color: white;
+}
+
+button {
+	background-color: skyblue;
+	color: white;
+	width: 500px;
+	padding: 25px 25px;
+	display: flex;
+	margin: auto;
+	margin-top: 10px;
+	font-size: 25px;
+}
+
+input {
+	width: 450px;
+	padding: 25px 25px;
+	font-size: 25px;
+}
